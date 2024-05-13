@@ -1,0 +1,20 @@
+# .NET Core
+*.obj
+*.exe
+*.dll
+*.pdb
+*.user
+*.vscode
+bin/
+obj/
+
+# ASP.NET Core
+*.swp
+*.suo
+*.cache
+*.log
+.vs/
+*.bin
+*.bak
+*.tmp
+*.csproj.user
